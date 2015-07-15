@@ -1,0 +1,6 @@
+**/build.sbt
+**/bin/*
+**/submission/*
+**/target/*
+**/project/*
+**/\.*
